@@ -1,0 +1,31 @@
+
+{
+    "es":{
+        "title": "El reloj digital de Mario",
+        "clock_frame_name": "Reloj",
+        "alarm_frame_name": "Alarma",
+        "alarm_hour_text": "Horas:",
+        "alarm_minute_text": "Minutos:",
+        "alarm_second_text": "Segundos:",
+        "alarm_set_text": "Programar alarma",
+        "alarm_info_text": "La alarma se programo a las",
+        "lang_button": "Idioma",
+        "theme_button": "Temas",
+        "timezone_button": "Zona horaria",
+        "time_format_button": "Formato de hora",    
+        "month":{
+            "1": "Enero",
+            "2": "Febrero",
+            "3": "Marzo",
+            "4": "Abril",
+            "5": "Mayo",
+            "6": "Junio",
+            "7": "Julio",
+            "8": "Agosto",
+            "9": "Septiembre",
+            "10": "Octubre",
+            "11": "Noviembre",
+            "12": "Diciembre"
+        }
+    }
+}

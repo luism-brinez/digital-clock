@@ -1,0 +1,40 @@
+{
+"timezones": {
+    "Los Angeles": "America/Los_Angeles",
+    "Caracas": "America/Caracas",
+    "Bogota": "America/Bogota",
+    "Buenos Aires": "America/Argentina/Buenos_Aires"
+},
+
+"themes":{
+    "light": {
+        "text_color":"black",
+        "bg_color":"white smoke",
+        "button_text_color":"white smoke",
+        "button_bg_color":"black",
+        "active_bg_color":"white smoke",
+        "active_text_color":"black"
+    },
+    "dark": {
+        "text_color":"white smoke",
+        "bg_color":"black",
+        "button_text_color":"black",
+        "button_bg_color":"white smoke",
+        "active_bg_color":"black",
+        "active_text_color":"white smoke"
+    },
+    "vaporwave": {
+        "text_color":"VioletRed1",
+        "bg_color":"aquamarine",
+        "button_text_color":"aquamarine",
+        "button_bg_color":"VioletRed1",
+        "active_bg_color":"aquamarine",
+        "active_text_color":"VioletRed1"
+    }
+},
+
+"time_formats": {
+    "12H": "12H",
+    "24H": "24H"
+}
+}

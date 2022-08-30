@@ -1,0 +1,32 @@
+
+{
+    "en":{
+        "title": "Mario's Digital Clock",
+        "clock_frame_name": "Clock",
+        "alarm_frame_name": "Alarm",
+        "alarm_hour_text": "Hours:",
+        "alarm_minute_text": "Minutes:",
+        "alarm_second_text": "Seconds:",
+        "alarm_set_text": "SET",
+        "alarm_info_text": "The alarm is setted at",
+        "lang_button": "Language",
+        "theme_button": "Themes",
+        "timezone_button": "Timezone",
+        "time_format_button": "Time format",    
+        "month":{
+            "1": "January",
+            "2": "February",
+            "3": "March",
+            "4": "April",
+            "5": "May",
+            "6": "June",
+            "7": "July",
+            "8": "August",
+            "9": "September",
+            "10": "October",
+            "11": "November",
+            "12": "December"
+        }
+
+    }
+}
